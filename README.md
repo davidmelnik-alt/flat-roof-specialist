@@ -13,7 +13,7 @@ GitHub Pages publishes the repository root from `main`. No build step or depende
 - `app.js`: navigation, photo gallery, privacy dialog, and estimate email preparation
 - `assets/`: project photographs sourced from the business's existing website
 
-The hero uses responsive 720px and 1200px images and preserves the entire before-and-after photograph.
+The hero uses responsive 800px and 1448px versions of a finished-roof photo from the business’s Google Maps listing. CSS frames only the lower finished roof photograph. Before-and-after photos remain in the gallery.
 
 The estimate form opens the visitor's email app with a prepared email to the business. The visitor must send that email to submit the inquiry.
 
